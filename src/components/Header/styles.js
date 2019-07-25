@@ -24,12 +24,13 @@ export const Cart = styled(Link)`
 
     strong {
       display: block;
-      color: '#fff';
+      color: #fff;
+      font-size: 20px;
     }
 
     span {
-      font-size: 12px;
-      color: '#999';
+      font-size: 16px;
+      color: #999;
     }
   }
 `;
